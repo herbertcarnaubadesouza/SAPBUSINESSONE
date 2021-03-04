@@ -1,0 +1,12 @@
+C:\Users\sap\source\repos\PegarEventos\BarraProgresso\bin\Debug\BarraProgresso.exe.config
+C:\Users\sap\source\repos\PegarEventos\BarraProgresso\bin\Debug\BarraProgresso.exe
+C:\Users\sap\source\repos\PegarEventos\BarraProgresso\bin\Debug\BarraProgresso.pdb
+C:\Users\sap\source\repos\PegarEventos\BarraProgresso\obj\Debug\BarraProgresso.csprojAssemblyReference.cache
+C:\Users\sap\source\repos\PegarEventos\BarraProgresso\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\sap\source\repos\PegarEventos\BarraProgresso\obj\Debug\BarraProgresso.csproj.ResolveComReference.cache
+C:\Users\sap\source\repos\PegarEventos\BarraProgresso\obj\Debug\BarraProgresso.Form1.resources
+C:\Users\sap\source\repos\PegarEventos\BarraProgresso\obj\Debug\BarraProgresso.Properties.Resources.resources
+C:\Users\sap\source\repos\PegarEventos\BarraProgresso\obj\Debug\BarraProgresso.csproj.GenerateResource.cache
+C:\Users\sap\source\repos\PegarEventos\BarraProgresso\obj\Debug\BarraProgresso.csproj.CoreCompileInputs.cache
+C:\Users\sap\source\repos\PegarEventos\BarraProgresso\obj\Debug\BarraProgresso.exe
+C:\Users\sap\source\repos\PegarEventos\BarraProgresso\obj\Debug\BarraProgresso.pdb

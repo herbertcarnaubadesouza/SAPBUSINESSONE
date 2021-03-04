@@ -1,0 +1,8 @@
+C:\Users\sap\source\repos\PegarEventos\HelperB1\bin\x64\Debug\HelperB1.dll
+C:\Users\sap\source\repos\PegarEventos\HelperB1\bin\x64\Debug\HelperB1.pdb
+C:\Users\sap\source\repos\PegarEventos\HelperB1\obj\x64\Debug\HelperB1.csprojAssemblyReference.cache
+C:\Users\sap\source\repos\PegarEventos\HelperB1\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\sap\source\repos\PegarEventos\HelperB1\obj\x64\Debug\HelperB1.csproj.ResolveComReference.cache
+C:\Users\sap\source\repos\PegarEventos\HelperB1\obj\x64\Debug\HelperB1.csproj.CoreCompileInputs.cache
+C:\Users\sap\source\repos\PegarEventos\HelperB1\obj\x64\Debug\HelperB1.dll
+C:\Users\sap\source\repos\PegarEventos\HelperB1\obj\x64\Debug\HelperB1.pdb

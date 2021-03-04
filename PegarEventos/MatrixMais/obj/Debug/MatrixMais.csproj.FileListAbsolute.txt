@@ -1,0 +1,14 @@
+C:\Users\sap\source\repos\PegarEventos\MatrixMais\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\sap\source\repos\PegarEventos\MatrixMais\obj\Debug\MatrixMais.csproj.ResolveComReference.cache
+C:\Users\sap\source\repos\PegarEventos\MatrixMais\obj\Debug\MatrixMais.Form1.resources
+C:\Users\sap\source\repos\PegarEventos\MatrixMais\obj\Debug\MatrixMais.Properties.Resources.resources
+C:\Users\sap\source\repos\PegarEventos\MatrixMais\obj\Debug\MatrixMais.csproj.GenerateResource.cache
+C:\Users\sap\source\repos\PegarEventos\MatrixMais\obj\Debug\MatrixMais.csproj.CoreCompileInputs.cache
+C:\Users\sap\source\repos\PegarEventos\MatrixMais\bin\Debug\MatrixMais.exe.config
+C:\Users\sap\source\repos\PegarEventos\MatrixMais\bin\Debug\MatrixMais.exe
+C:\Users\sap\source\repos\PegarEventos\MatrixMais\bin\Debug\MatrixMais.pdb
+C:\Users\sap\source\repos\PegarEventos\MatrixMais\bin\Debug\HelperB1.dll
+C:\Users\sap\source\repos\PegarEventos\MatrixMais\bin\Debug\HelperB1.pdb
+C:\Users\sap\source\repos\PegarEventos\MatrixMais\obj\Debug\MatrixMais.csproj.CopyComplete
+C:\Users\sap\source\repos\PegarEventos\MatrixMais\obj\Debug\MatrixMais.exe
+C:\Users\sap\source\repos\PegarEventos\MatrixMais\obj\Debug\MatrixMais.pdb

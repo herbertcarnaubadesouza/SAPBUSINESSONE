@@ -1,0 +1,11 @@
+C:\Users\sap\source\repos\PegarEventos\PegarEventos\bin\x64\Debug\PegarEventos.exe.config
+C:\Users\sap\source\repos\PegarEventos\PegarEventos\bin\x64\Debug\PegarEventos.exe
+C:\Users\sap\source\repos\PegarEventos\PegarEventos\bin\x64\Debug\PegarEventos.pdb
+C:\Users\sap\source\repos\PegarEventos\PegarEventos\obj\x64\Debug\PegarEventos.csprojAssemblyReference.cache
+C:\Users\sap\source\repos\PegarEventos\PegarEventos\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\sap\source\repos\PegarEventos\PegarEventos\obj\x64\Debug\PegarEventos.csproj.ResolveComReference.cache
+C:\Users\sap\source\repos\PegarEventos\PegarEventos\obj\x64\Debug\PegarEventos.Properties.Resources.resources
+C:\Users\sap\source\repos\PegarEventos\PegarEventos\obj\x64\Debug\PegarEventos.csproj.GenerateResource.cache
+C:\Users\sap\source\repos\PegarEventos\PegarEventos\obj\x64\Debug\PegarEventos.csproj.CoreCompileInputs.cache
+C:\Users\sap\source\repos\PegarEventos\PegarEventos\obj\x64\Debug\PegarEventos.exe
+C:\Users\sap\source\repos\PegarEventos\PegarEventos\obj\x64\Debug\PegarEventos.pdb

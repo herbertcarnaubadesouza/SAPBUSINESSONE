@@ -1,0 +1,10 @@
+C:\Users\sap\source\repos\PegarEventos\UsandoMatrix\bin\x64\Debug\UsandoMatrix.exe.config
+C:\Users\sap\source\repos\PegarEventos\UsandoMatrix\bin\x64\Debug\UsandoMatrix.exe
+C:\Users\sap\source\repos\PegarEventos\UsandoMatrix\bin\x64\Debug\UsandoMatrix.pdb
+C:\Users\sap\source\repos\PegarEventos\UsandoMatrix\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\sap\source\repos\PegarEventos\UsandoMatrix\obj\x64\Debug\UsandoMatrix.csproj.ResolveComReference.cache
+C:\Users\sap\source\repos\PegarEventos\UsandoMatrix\obj\x64\Debug\UsandoMatrix.Properties.Resources.resources
+C:\Users\sap\source\repos\PegarEventos\UsandoMatrix\obj\x64\Debug\UsandoMatrix.csproj.GenerateResource.cache
+C:\Users\sap\source\repos\PegarEventos\UsandoMatrix\obj\x64\Debug\UsandoMatrix.csproj.CoreCompileInputs.cache
+C:\Users\sap\source\repos\PegarEventos\UsandoMatrix\obj\x64\Debug\UsandoMatrix.exe
+C:\Users\sap\source\repos\PegarEventos\UsandoMatrix\obj\x64\Debug\UsandoMatrix.pdb

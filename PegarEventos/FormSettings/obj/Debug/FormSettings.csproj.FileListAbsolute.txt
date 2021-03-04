@@ -1,0 +1,15 @@
+C:\Users\sap\source\repos\PegarEventos\FormSettings\obj\Debug\FormSettings.csprojAssemblyReference.cache
+C:\Users\sap\source\repos\PegarEventos\FormSettings\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\sap\source\repos\PegarEventos\FormSettings\obj\Debug\FormSettings.csproj.ResolveComReference.cache
+C:\Users\sap\source\repos\PegarEventos\FormSettings\obj\Debug\FormSettings.Properties.Resources.resources
+C:\Users\sap\source\repos\PegarEventos\FormSettings\obj\Debug\FormSettings.csproj.GenerateResource.cache
+C:\Users\sap\source\repos\PegarEventos\FormSettings\obj\Debug\FormSettings.csproj.CoreCompileInputs.cache
+C:\Users\sap\source\repos\PegarEventos\FormSettings\bin\Debug\FormSettings.exe.config
+C:\Users\sap\source\repos\PegarEventos\FormSettings\bin\Debug\FormSettings.exe
+C:\Users\sap\source\repos\PegarEventos\FormSettings\bin\Debug\FormSettings.pdb
+C:\Users\sap\source\repos\PegarEventos\FormSettings\bin\Debug\HelperB1.dll
+C:\Users\sap\source\repos\PegarEventos\FormSettings\bin\Debug\HelperB1.pdb
+C:\Users\sap\source\repos\PegarEventos\FormSettings\obj\Debug\FormSettings.csproj.CopyComplete
+C:\Users\sap\source\repos\PegarEventos\FormSettings\obj\Debug\FormSettings.exe
+C:\Users\sap\source\repos\PegarEventos\FormSettings\obj\Debug\FormSettings.pdb
+C:\Users\sap\source\repos\PegarEventos\FormSettings\obj\Debug\FormSettings.Form1.resources

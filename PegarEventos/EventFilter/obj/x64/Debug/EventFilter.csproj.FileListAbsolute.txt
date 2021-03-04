@@ -1,0 +1,11 @@
+C:\Users\sap\source\repos\PegarEventos\EventFilter\bin\x64\Debug\EventFilter.exe.config
+C:\Users\sap\source\repos\PegarEventos\EventFilter\bin\x64\Debug\EventFilter.exe
+C:\Users\sap\source\repos\PegarEventos\EventFilter\bin\x64\Debug\EventFilter.pdb
+C:\Users\sap\source\repos\PegarEventos\EventFilter\obj\x64\Debug\EventFilter.csprojAssemblyReference.cache
+C:\Users\sap\source\repos\PegarEventos\EventFilter\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\sap\source\repos\PegarEventos\EventFilter\obj\x64\Debug\EventFilter.csproj.ResolveComReference.cache
+C:\Users\sap\source\repos\PegarEventos\EventFilter\obj\x64\Debug\EventFilter.Properties.Resources.resources
+C:\Users\sap\source\repos\PegarEventos\EventFilter\obj\x64\Debug\EventFilter.csproj.GenerateResource.cache
+C:\Users\sap\source\repos\PegarEventos\EventFilter\obj\x64\Debug\EventFilter.csproj.CoreCompileInputs.cache
+C:\Users\sap\source\repos\PegarEventos\EventFilter\obj\x64\Debug\EventFilter.exe
+C:\Users\sap\source\repos\PegarEventos\EventFilter\obj\x64\Debug\EventFilter.pdb

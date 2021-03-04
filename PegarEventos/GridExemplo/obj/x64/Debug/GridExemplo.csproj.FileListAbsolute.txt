@@ -1,0 +1,12 @@
+C:\Users\sap\source\repos\PegarEventos\GridExemplo\bin\x64\Debug\GridExemplo.exe.config
+C:\Users\sap\source\repos\PegarEventos\GridExemplo\bin\x64\Debug\GridExemplo.exe
+C:\Users\sap\source\repos\PegarEventos\GridExemplo\bin\x64\Debug\GridExemplo.pdb
+C:\Users\sap\source\repos\PegarEventos\GridExemplo\bin\x64\Debug\HelperB1.dll
+C:\Users\sap\source\repos\PegarEventos\GridExemplo\bin\x64\Debug\HelperB1.pdb
+C:\Users\sap\source\repos\PegarEventos\GridExemplo\obj\x64\Debug\GridExemplo.csprojAssemblyReference.cache
+C:\Users\sap\source\repos\PegarEventos\GridExemplo\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\sap\source\repos\PegarEventos\GridExemplo\obj\x64\Debug\GridExemplo.csproj.ResolveComReference.cache
+C:\Users\sap\source\repos\PegarEventos\GridExemplo\obj\x64\Debug\GridExemplo.csproj.CoreCompileInputs.cache
+C:\Users\sap\source\repos\PegarEventos\GridExemplo\obj\x64\Debug\GridExemplo.csproj.CopyComplete
+C:\Users\sap\source\repos\PegarEventos\GridExemplo\obj\x64\Debug\GridExemplo.exe
+C:\Users\sap\source\repos\PegarEventos\GridExemplo\obj\x64\Debug\GridExemplo.pdb

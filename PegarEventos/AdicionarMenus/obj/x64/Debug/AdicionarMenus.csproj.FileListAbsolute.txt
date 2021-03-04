@@ -1,0 +1,11 @@
+C:\Users\sap\source\repos\PegarEventos\AdicionarMenus\obj\x64\Debug\AdicionarMenus.csprojAssemblyReference.cache
+C:\Users\sap\source\repos\PegarEventos\AdicionarMenus\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\sap\source\repos\PegarEventos\AdicionarMenus\obj\x64\Debug\AdicionarMenus.csproj.ResolveComReference.cache
+C:\Users\sap\source\repos\PegarEventos\AdicionarMenus\obj\x64\Debug\AdicionarMenus.Properties.Resources.resources
+C:\Users\sap\source\repos\PegarEventos\AdicionarMenus\obj\x64\Debug\AdicionarMenus.csproj.GenerateResource.cache
+C:\Users\sap\source\repos\PegarEventos\AdicionarMenus\obj\x64\Debug\AdicionarMenus.csproj.CoreCompileInputs.cache
+C:\Users\sap\source\repos\PegarEventos\AdicionarMenus\bin\x64\Debug\AdicionarMenus.exe.config
+C:\Users\sap\source\repos\PegarEventos\AdicionarMenus\bin\x64\Debug\AdicionarMenus.exe
+C:\Users\sap\source\repos\PegarEventos\AdicionarMenus\bin\x64\Debug\AdicionarMenus.pdb
+C:\Users\sap\source\repos\PegarEventos\AdicionarMenus\obj\x64\Debug\AdicionarMenus.exe
+C:\Users\sap\source\repos\PegarEventos\AdicionarMenus\obj\x64\Debug\AdicionarMenus.pdb

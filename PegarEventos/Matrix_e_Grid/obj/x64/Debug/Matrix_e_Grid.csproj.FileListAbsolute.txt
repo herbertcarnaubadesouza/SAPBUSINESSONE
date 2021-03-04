@@ -1,0 +1,15 @@
+C:\Users\sap\source\repos\PegarEventos\Matrix_e_Grid\bin\x64\Debug\Matrix_e_Grid.exe.config
+C:\Users\sap\source\repos\PegarEventos\Matrix_e_Grid\bin\x64\Debug\Matrix_e_Grid.exe
+C:\Users\sap\source\repos\PegarEventos\Matrix_e_Grid\bin\x64\Debug\Matrix_e_Grid.pdb
+C:\Users\sap\source\repos\PegarEventos\Matrix_e_Grid\bin\x64\Debug\HelperB1.dll
+C:\Users\sap\source\repos\PegarEventos\Matrix_e_Grid\bin\x64\Debug\HelperB1.pdb
+C:\Users\sap\source\repos\PegarEventos\Matrix_e_Grid\obj\x64\Debug\Matrix_e_Grid.csprojAssemblyReference.cache
+C:\Users\sap\source\repos\PegarEventos\Matrix_e_Grid\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\sap\source\repos\PegarEventos\Matrix_e_Grid\obj\x64\Debug\Matrix_e_Grid.csproj.ResolveComReference.cache
+C:\Users\sap\source\repos\PegarEventos\Matrix_e_Grid\obj\x64\Debug\Matrix_e_Grid.Form1.resources
+C:\Users\sap\source\repos\PegarEventos\Matrix_e_Grid\obj\x64\Debug\Matrix_e_Grid.Properties.Resources.resources
+C:\Users\sap\source\repos\PegarEventos\Matrix_e_Grid\obj\x64\Debug\Matrix_e_Grid.csproj.GenerateResource.cache
+C:\Users\sap\source\repos\PegarEventos\Matrix_e_Grid\obj\x64\Debug\Matrix_e_Grid.csproj.CoreCompileInputs.cache
+C:\Users\sap\source\repos\PegarEventos\Matrix_e_Grid\obj\x64\Debug\Matrix_e_Grid.csproj.CopyComplete
+C:\Users\sap\source\repos\PegarEventos\Matrix_e_Grid\obj\x64\Debug\Matrix_e_Grid.exe
+C:\Users\sap\source\repos\PegarEventos\Matrix_e_Grid\obj\x64\Debug\Matrix_e_Grid.pdb
